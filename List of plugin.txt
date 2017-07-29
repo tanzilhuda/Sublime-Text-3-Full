@@ -1,0 +1,5 @@
+1. Emmet
+2. HTML-CSS-JS Prettify
+3. BracketHighlighter
+4. AutoFileName
+5. Color Highlighter

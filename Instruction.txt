@@ -1,0 +1,3 @@
+View > Show Console > Paste Code -> Enter
+
+Package Install: Ctrl+shift+p
